@@ -73,6 +73,7 @@ Retrieve similarity scores
 Sort movies by similarity
 Return Top 5 recommendations
 📁 Project Structure
+```
 Movie-Recommender-System/
 │
 ├── app.py
@@ -82,6 +83,8 @@ Movie-Recommender-System/
 ├── tmdb_5000_credits.csv
 ├── requirements.txt
 └── README.md
+
+```
 💻 Installation
 
 Clone the repository:
